@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming AI engineer at Matsuo Inc./Lab. I majored in computer science and communications engineering at the Advanced Multimedia Systems Lab at Waseda University in Japan (https://www.ams.giti.waseda.ac.jp/). My research focused on video prediction, object detection, and video frame interpolation, and I participated in collaborative research with the National Institute of Information and Communications Technology (NICT).
+I am an incoming AI engineer at Matsuo Inc./Lab. I majored in computer science and communications engineering at the Advanced Multimedia Systems Lab ([AMS](https://www.ams.giti.waseda.ac.jp/)) at Waseda University in Japan. My research focused on video prediction, object detection, and video frame interpolation, and I participated in collaborative research with the National Institute of Information and Communications Technology ([NICT](https://www.nict.go.jp/)).
