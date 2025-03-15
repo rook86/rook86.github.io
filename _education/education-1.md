@@ -2,7 +2,7 @@
 title: "School of Fundamental Science and Engineering, Applied Mathematics Major, Waseda University"
 collection: education
 type: "Undergraduate course"
-permalink: /_education/education-1
+permalink: /education/education-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"

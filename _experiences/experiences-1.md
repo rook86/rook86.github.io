@@ -2,7 +2,7 @@
 title: "Research Assistant"
 collection: experiences
 type: "Undergraduate course"
-permalink: /_experiences/experiences-1
+permalink: /experiences/experiences-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
