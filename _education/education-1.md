@@ -1,6 +1,6 @@
 ---
 title: "School of Fundamental Science and Engineering, Applied Mathematics Major, Waseda University"
-collection: teaching
+collection: education
 type: "Undergraduate course"
 permalink: /_education/education-1
 venue: "University 1, Department"

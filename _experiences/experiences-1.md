@@ -1,8 +1,8 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "Research Assistant"
+collection: experiences
 type: "Undergraduate course"
-permalink: /teaching/experiences-1
+permalink: /_experiences/experiences-1
 venue: "University 1, Department"
 date: 2014-01-01
 location: "City, Country"
